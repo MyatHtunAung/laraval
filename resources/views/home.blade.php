@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    Welcome from Laravel!
                     tested by MTA.
                 </div>
             </div>
